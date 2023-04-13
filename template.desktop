@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Wacom thingy
+Terminal=false
+Comment=Simple wrapper around xsetwacom for my Intuos S
